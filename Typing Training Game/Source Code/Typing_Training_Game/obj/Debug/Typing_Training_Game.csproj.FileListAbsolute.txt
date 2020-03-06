@@ -1,0 +1,32 @@
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\bin\Debug\Typing_Training_Game.exe.config
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\bin\Debug\Typing_Training_Game.exe
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\bin\Debug\Typing_Training_Game.pdb
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.AccountDetails.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.ColourBlindMode.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.Game.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.GameSettings.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.LoginForm.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.MainForm.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.PlayGame.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.RecoveryForm.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.RegisterForm.resources
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.exe
+C:\Users\Stefan\Desktop\Game\Typing_Training_Game\Typing_Training_Game\obj\Debug\Typing_Training_Game.pdb
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\bin\Debug\Typing_Training_Game.exe.config
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\bin\Debug\Typing_Training_Game.exe
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\bin\Debug\Typing_Training_Game.pdb
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.AccountDetails.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.ColourBlindMode.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.Game.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.GameSettings.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.LoginForm.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.MainForm.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.PlayGame.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.RecoveryForm.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.RegisterForm.resources
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.exe
+C:\Users\Stefan\Desktop\Source Code\Typing_Training_Game\obj\Debug\Typing_Training_Game.pdb
